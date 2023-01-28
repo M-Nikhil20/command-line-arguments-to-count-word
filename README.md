@@ -38,8 +38,8 @@ Run the program to determine the number of words in the file created.
 
 ```python
 #Python program for getting the word count from the contents of a file using command line arguments.
-#Developed by:Mohammed Faizal.J
-#RegisterNumber: 22003412
+#Developed by:M Nikhil
+#RegisterNumber: 22008584
 import sys
 count = 0
 with open (sys.argv[1],'r') as f1:
